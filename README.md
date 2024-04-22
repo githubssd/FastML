@@ -6,13 +6,11 @@ Welcome to the **FastML** project! This repository is designed to guide you thro
 
 To get started with learning machine learning, follow these steps:
 
-1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/githubssd/FastML.git`.
+1. **Explore the Chapters**: Navigate to the `Week-*` directory to discover comprehensive tutorials covering a range of machine learning concepts, such as data preprocessing, model training, evaluation, and deployment. Begin with the `Introduction notebook` and utilize the `navigation bars` for seamless progression through the content.
 
-2. **Check Out the Tutorials**: Dive into the `Week-*` folder to find step-by-step tutorials on various machine learning topics, including data preprocessing, model training, evaluation, and deployment.
+2. **Experiment with Jupyter Notebooks**: Explore the `notebooks` folder, which contains Jupyter notebooks with hands-on exercises and examples that you can run and modify to gain practical experience with machine learning algorithms and techniques.
 
-3. **Experiment with Jupyter Notebooks**: Explore the `notebooks` folder, which contains Jupyter notebooks with hands-on exercises and examples that you can run and modify to gain practical experience with machine learning algorithms and techniques.
-
-4. **Join the Community**: Engage with other learners and experts by joining our community forums or participating in online discussions. Share your progress, ask questions, and collaborate with fellow learners to enhance your understanding of machine learning concepts.
+3. **Join the Community**: Engage with other learners and experts by joining our community forums or participating in online discussions. Share your progress, ask questions, and collaborate with fellow learners to enhance your understanding of machine learning concepts.
 
 ## Contributing
 
